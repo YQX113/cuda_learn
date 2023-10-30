@@ -17,13 +17,13 @@
   </tr>
   <tr>
     <td style="text-align:center; vertical-align:middle;">2</td>
-    <td style="text-align:center; vertical-align:middle;"><img src="C:\Users\Qianxu\Desktop\memorial_large.jpg" style="zoom: 80%;" /></td>
-    <td style="text-align:center; vertical-align:middle;"><img src="D:\cuda\cuda_learn\Problem Set 3\Problem Set 3\HW3_output.png" style="zoom:80%;" /></td>
+    <td style="text-align:center; vertical-align:middle;"><img src="https://github.com/YQX113/cuda_learn/blob/main/02/in.jpg" style="zoom: 80%;" /></td>
+    <td style="text-align:center; vertical-align:middle;"><img src="https://github.com/YQX113/cuda_learn/blob/main/02/out.png" style="zoom:80%;" /></td>
   </tr>
   <tr>
     <td style="text-align:center; vertical-align:middle;">3</td>
-    <td style="text-align:center; vertical-align:middle;"><img src="red_eye_effect_5.jpg" style="zoom:98.5%;" /></td>
-    <td style="text-align:center; vertical-align:middle;"><img src="HW4_output.png" /></td>
+    <td style="text-align:center; vertical-align:middle;"><img src="https://github.com/YQX113/cuda_learn/blob/main/03/in.jpg" style="zoom:98.5%;" /></td>
+    <td style="text-align:center; vertical-align:middle;"><img src="https://github.com/YQX113/cuda_learn/blob/main/03/out.png" /></td>
   </tr>
   <tr>
     <td style="text-align:center; vertical-align:middle;">4</td>
@@ -32,7 +32,7 @@
   </tr>
   <tr>
     <td style="text-align:center; vertical-align:middle;">5</td>
-    <td style="text-align:center; vertical-align:middle;"><img src="in.jpg" style="zoom:83.9%;" /></td>
-    <td style="text-align:center; vertical-align:middle;"><img src="HW6_output.png" /></td>
+    <td style="text-align:center; vertical-align:middle;"><img src="https://github.com/YQX113/cuda_learn/blob/main/05/in.jpg" style="zoom:83.9%;" /></td>
+    <td style="text-align:center; vertical-align:middle;"><img src="https://github.com/YQX113/cuda_learn/blob/main/05/out.png" /></td>
   </tr>
 </table>
