@@ -1,4 +1,4 @@
-# cuda_learn
+# cuda_learn -> the art of cake cutting
 
 | id | in | out |
 | :--: | :------------------: | :------------------: |
