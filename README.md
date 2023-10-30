@@ -1,4 +1,4 @@
-# cuda:The Art of Cutting a Cake
+# The Art of Cutting a Cake
 
 | id | in | out |
 | :--: | :------------------: | :------------------: |
