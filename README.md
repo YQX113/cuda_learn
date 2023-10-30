@@ -13,7 +13,7 @@
   <tr>
     <td style="text-align:center; vertical-align:middle;">1</td>
     <td style="text-align:center; vertical-align:middle;"><img src="https://github.com/YQX113/cuda_learn/blob/main/01/in.jpg" style="zoom:12%;" /></td>
-    <td style="text-align:center; vertical-align:middle;"><img src="https://github.com/YQX113/cuda_learn/blob/main/01/out.jpg" style="zoom:13.8%;" /></td>
+    <td style="text-align:center; vertical-align:middle;"><img src="https://github.com/YQX113/cuda_learn/blob/main/01/out.jpg" style="zoom:12%;" /></td>
   </tr>
   <tr>
     <td style="text-align:center; vertical-align:middle;">2</td>
