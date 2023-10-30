@@ -7,4 +7,4 @@
 | 2 | <img src="https://github.com/YQX113/cuda_learn/blob/main/02/in.jpg" width="100" /> | <img src="https://github.com/YQX113/cuda_learn/blob/main/02/out.png" width="300" /> |
 | 3 | <img src="https://github.com/YQX113/cuda_learn/blob/main/03/in.jpg" width="100" /> | <img src="https://github.com/YQX113/cuda_learn/blob/main/03/out.png" /> |
 | 4 | ninja | ninja |
-| 5 | <img src="https://github.com/YQX113/cuda_learn/blob/main/05/in.jpg" width="100" /> | <img src="https://github.com/YQX113/cuda_learn/blob/main/05/out.png" /> |
+| 5 | <img src="https://github.com/YQX113/cuda_learn/blob/main/05/in.jpg" /> | <img src="https://github.com/YQX113/cuda_learn/blob/main/05/out.png" /> |
