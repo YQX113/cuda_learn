@@ -7,7 +7,7 @@
   </tr>
   <tr>
     <td style="text-align:center; vertical-align:middle;">0</td>
-    <td style="text-align:center; vertical-align:middle;"><img src="https://github.com/YQX113/cuda_learn/blob/main/00/in_00.jpg" style="zoom:10%;" /><img src="https://github.com/YQX113/cuda_learn/blob/main/00/in_01.jpg" style="zoom:5%;" /></td>
+    <td style="text-align:center; vertical-align:middle;"><img src="https://github.com/YQX113/cuda_learn/blob/main/00/in_00.jpg" style="zoom:5%;" /><img src="https://github.com/YQX113/cuda_learn/blob/main/00/in_01.jpg" style="zoom:5%;" /></td>
     <td style="text-align:center; vertical-align:middle;"><img src="https://github.com/YQX113/cuda_learn/blob/main/00/out.png" style="zoom:9%;" /></td>
   </tr>
   <tr>
