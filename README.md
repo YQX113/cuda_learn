@@ -7,8 +7,8 @@
   </tr>
   <tr>
     <td style="text-align:center; vertical-align:middle;">0</td>
-    <td style="text-align:center; vertical-align:middle;"><img src="https://github.com/YQX113/cuda_learn/blob/main/00/in_00.jpg" style="zoom:10%;" /><img src="C:\Users\Qianxu\Desktop\mk_00.jpg" style="zoom:5%;" /></td>
-    <td style="text-align:center; vertical-align:middle;"><img src="D:\cuda\cuda_learn\Problem Set 1\Problem Set 1\HW1_output.png" style="zoom:9%;" /></td>
+    <td style="text-align:center; vertical-align:middle;"><img src="https://github.com/YQX113/cuda_learn/blob/main/00/in_00.jpg" style="zoom:10%;" /><img src="https://github.com/YQX113/cuda_learn/blob/main/00/in_01.jpg" style="zoom:5%;" /></td>
+    <td style="text-align:center; vertical-align:middle;"><img src="https://github.com/YQX113/cuda_learn/blob/main/00/out.png" style="zoom:9%;" /></td>
   </tr>
   <tr>
     <td style="text-align:center; vertical-align:middle;">1</td>
